@@ -1,0 +1,11 @@
+05/09/2024 01:52:03 PM: DEBUG: connectionpool: _new_conn: Starting new HTTPS connection (1): reqres.in:443
+05/09/2024 01:52:03 PM: DEBUG: connectionpool: _make_request: https://reqres.in:443 "POST /api/users HTTP/11" 201 82
+05/09/2024 01:52:03 PM: INFO: UsersServices: verifyCreateUserRequest: Status code is 201
+05/09/2024 01:54:31 PM: INFO: UsersServices: verifyCreateUserRequest: Status code is 201
+05/09/2024 01:54:31 PM: INFO: UsersServices: verifyGetAllUsersListRequest: Status code is 200
+05/09/2024 01:55:19 PM: INFO: UsersServices: verifyCreateUserRequest: Status code is 201
+05/09/2024 01:55:19 PM: INFO: UsersServices: verifyGetAllUsersListRequest: Status code is 200
+05/09/2024 01:56:52 PM: INFO: UsersServices: verifyCreateUserRequest: Status code is 201
+05/09/2024 01:56:52 PM: INFO: UsersServices: verifyCreateUserRequest: Validated API Response Status code
+05/09/2024 01:56:52 PM: INFO: UsersServices: verifyGetAllUsersListRequest: Status code is 200
+05/09/2024 01:56:52 PM: INFO: UsersServices: verifyGetAllUsersListRequest: Validated API Response Status code
